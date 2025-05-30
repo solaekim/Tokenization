@@ -6,3 +6,5 @@ Brooklyn College, City University of New York (CUNY)
 Spring 2024
 ## Source
 https://www.sci.brooklyn.cuny.edu/~zhou/teaching/cis3160/project.html
+## License
+[Solae Kim](https://github.com/solaekim/).
